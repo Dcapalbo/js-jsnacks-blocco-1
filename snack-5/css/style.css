@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+#square-red {
+  margin-top: 25%;
+  padding: 10px;
+  text-align: center;
+  line-height: 100px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+#square-green {
+  margin-top: 25%;
+  padding: 10px;
+  text-align: center;
+  line-height: 100px;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
