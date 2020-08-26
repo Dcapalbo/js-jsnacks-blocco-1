@@ -15,6 +15,6 @@ if (!isNaN(primaParola) || !isNaN(secondaParola)) {
    } else if (secondaParola.length > primaParola.length) {
      console.log(secondaParola + " " + primaParola);
    } else {
-     console.log("le parole sono lunghe uguali");
+     console.log("le parole hanno la stessa lunghezza");
    }
 }
