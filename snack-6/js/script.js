@@ -9,12 +9,12 @@ for (var i = 0; i < invitatiFesta.length; i++) {
   if (nomeUtente === invitatiFesta[i]) {
     invito = true;
     alert("Il nome è sulla lista");
-    break
+    break;
   }
   else {
     (nomeUtente !== invitatiFesta[i])
     invito = false;
     alert("il nome non è sulla lista");
-    break
+    break;
   }
 }
