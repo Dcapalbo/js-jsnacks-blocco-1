@@ -1,5 +1,3 @@
-// Chiedi un numero di 4 cifre all’utente e calcola la somma
-// di tutte le cifre che compongono il numero.
 
 // Arrays 
 let numbers = [3, 45, 10, 23, 9, 45, 34];
