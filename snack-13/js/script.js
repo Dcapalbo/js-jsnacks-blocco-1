@@ -7,5 +7,6 @@ function primeNumber() {
     return true;
   } else {
     return false;
-  } console.log("it is a prime number");
+  } 
 }
+console.log("it is a prime number");
